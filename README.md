@@ -27,8 +27,7 @@ specialized in HTML, CSS, JavaScript, PHP and React. Check out my networks to le
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/allytshind6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="canddev" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ally9703&show_icons=true&locale=en
-&layout=compact" alt="Ally9703" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ally9703&show_icons=true&locale=en" alt="Ally9703" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ally9703&show_icons=true&locale=en" alt="Ally9703" /></p>
 
