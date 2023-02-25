@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alliance Tshindayi</h1>
-<h3 align="center">I'm a full Stack web developer.  I have passion for programming, and I don't stop learning.
+<h3 align="">I'm a full Stack web developer.  I have passion for programming, and I don't stop learning.
 Specialized in HTML, CSS, JavaScript, PHP and React. Check out my networks to learn more about these topics!</h3>
 <br>
 
