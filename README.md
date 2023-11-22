@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alliance Tshindayi</h1>
 <h3 align="">I'm a full Stack web developer.  I have passion for programming, and I don't stop learning.
-Specialized in HTML, CSS, JavaScript, PHP and React. Check out my networks to learn more about these topics!!</h3>
+Specialized in HTML, CSS, JavaScript, PHP, PYTHON, DJANGO and React. Check out my networks to learn more about these topics!!</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ally9703&label=Profile%20views&color=0e75b6&style=flat" alt="Ally9703" /> </p>
